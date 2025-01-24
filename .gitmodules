@@ -4,3 +4,9 @@
 [submodule "git-submodules-dir1"]
 	path = git-submodules-dir1
 	url = https://github.com/meharsh2001/git-submodules-dir1
+[submodule "libs/sample1"]
+	path = libs/sample1
+	url = https://github.com/meharsh2001/git-submodules-dir1.git
+[submodule "sample1"]
+	path = sample1
+	url = https://github.com/meharsh2001/git-submodules-dir1.git
